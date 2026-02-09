@@ -4,6 +4,7 @@
     - 지민 tistory: https://wlals916.tistory.com/category/Algorithms
     - 희선 velog: https://velog.io/@lissani/posts
     - 소현 notion: https://www.notion.so/2e622b278b2180cfad32f58d8d8b1543
+    - 유영 notion: https://pineapple-paper-c46.notion.site/Algo-smash-2f1b99706b7a80b69f9bdc731ddc95fc
 ---
 
 
