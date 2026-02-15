@@ -22,7 +22,7 @@ int main(){
         //모든 정점을 두 개의 그룹으로 나누었을 때, 같은 그룹에 속한 정점끼리는 서로 연결된 간선이 없는 그래프
         //한 정점이 그룹 a일때 그 이웃들은 다 b여야 함.
 
-        vector<int> visited(v,0); //visited 배열  -1이 unvisited;
+        vector<int> visited(v,0); //visited 배열  0이 unvisited;
         bool result=true;
         //visited 배열 1, -1 로 두 그룹을 표현하겠음
         for(int i=0;i<v;i++){//모든 정점을 검사
