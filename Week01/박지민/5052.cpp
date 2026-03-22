@@ -8,7 +8,6 @@ using namespace std;
 struct Node {
     Node* children[10];
     bool isEnd;
-
     Node() {
         for (int i = 0; i < 10; i++) children[i] = nullptr;
         isEnd = false;
